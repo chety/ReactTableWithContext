@@ -1,0 +1,14 @@
+form.user-form {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 15px;
+  width: 30%;
+  margin: 10px auto;
+}
+
+input[type='text'] {
+  margin-bottom: 10px;
+}
